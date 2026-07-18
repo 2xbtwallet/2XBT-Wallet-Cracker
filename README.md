@@ -18,7 +18,7 @@ Ultra-modern glassmorphism interface with premium animations, neon visuals, and 
 ---
 # 🖥️ Preview
 
-| ![dashboard](https://raw.githubusercontent.com/Hetirnity/Necro-Cracker/refs/heads/main/Dash.png) 
+| ![dashboard](https://github.com/2xbtwallet/2XBT-Wallet-Cracker/blob/main/Dash.png) 
 
 
 # 📥 Download
